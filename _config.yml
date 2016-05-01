@@ -1,0 +1,28 @@
+name: BeachHaven
+favicon: null
+layout_spectrum: 0.3101234526839107
+typography_spectrum: 0.7300309147685766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45852317102253437
+  lightness: 0.1605377031955868
+  saturation: 0.3461209968663752
+  rhythmicContrast: 0.4996441926341504
+purpose: []
